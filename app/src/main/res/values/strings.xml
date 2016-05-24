@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="location">Eau Claire</string>
+    <string name="provider">Data Courtesy of Open Weather Maps</string>
+</resources>
